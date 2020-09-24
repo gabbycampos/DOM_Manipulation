@@ -32,7 +32,7 @@ newLi.innerText = 'four';
 // Append the li to the ul element.
 ul.append(newLi);
 /* 
-their solution:
+another solution:
 let newLi = document.createElement("li");
 newLi.innerText = "four"
 let list = document.querySelector("ul");
